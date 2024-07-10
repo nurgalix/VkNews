@@ -1,0 +1,6 @@
+framework module Pods_VkNews {
+  umbrella header "Pods-VkNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
